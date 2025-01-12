@@ -1,5 +1,6 @@
 # flutter
-Introdução ao desenvolvomento do Flutter
+Introdução ao desenvolvimento de aplicações com Flutter
+
 Flutter is an open-source UI software development toolkit created by Google. It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase.
 
 Here’s a simple example to get you started with Flutter. This example demonstrates how to create a basic Flutter app that displays a centered "Hello, World!" text.
